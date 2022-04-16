@@ -1,3 +1,1 @@
-python -m spacy download en
-python -m spacy download en_core_web_lg
-python -m ipykernel install --user --name=zsx
+python -m spacy download enpython -m spacy download en_core_web_lgpython -m ipykernel install --user --name=zsx
