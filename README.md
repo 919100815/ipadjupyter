@@ -1,0 +1,2 @@
+# ipadjupyter
+ipadjupyter for zsx
